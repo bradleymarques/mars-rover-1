@@ -11,7 +11,7 @@
 - run 'node main.js'
 - At the prompt1 enter '8 10'
 - At the prompt2 enter '12 E'
-- At the prompt3 enter '8 10MMLMRMMRRMML'
+- At the prompt3 enter 'MMLMRMMRRMML'
 - App will Output '3 3 S'
 
 ### To run TestCases
